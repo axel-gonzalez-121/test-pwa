@@ -1,15 +1,13 @@
 {
   "files": {
     "main.css": "/test-pwa/static/css/main.9d5b29c0.chunk.css",
-    "main.js": "/test-pwa/static/js/main.f4fea624.chunk.js",
-    "main.js.map": "/test-pwa/static/js/main.f4fea624.chunk.js.map",
+    "main.js": "/test-pwa/static/js/main.f4131574.chunk.js",
+    "main.js.map": "/test-pwa/static/js/main.f4131574.chunk.js.map",
     "runtime-main.js": "/test-pwa/static/js/runtime-main.031800f8.js",
     "runtime-main.js.map": "/test-pwa/static/js/runtime-main.031800f8.js.map",
     "static/js/2.62258473.chunk.js": "/test-pwa/static/js/2.62258473.chunk.js",
     "static/js/2.62258473.chunk.js.map": "/test-pwa/static/js/2.62258473.chunk.js.map",
     "index.html": "/test-pwa/index.html",
-    "service-worker.js": "/test-pwa/service-worker.js",
-    "service-worker.js.map": "/test-pwa/service-worker.js.map",
     "static/css/main.9d5b29c0.chunk.css.map": "/test-pwa/static/css/main.9d5b29c0.chunk.css.map",
     "static/js/2.62258473.chunk.js.LICENSE.txt": "/test-pwa/static/js/2.62258473.chunk.js.LICENSE.txt",
     "static/media/logo.103b5fa1.svg": "/test-pwa/static/media/logo.103b5fa1.svg"
@@ -18,6 +16,6 @@
     "static/js/runtime-main.031800f8.js",
     "static/js/2.62258473.chunk.js",
     "static/css/main.9d5b29c0.chunk.css",
-    "static/js/main.f4fea624.chunk.js"
+    "static/js/main.f4131574.chunk.js"
   ]
 }
